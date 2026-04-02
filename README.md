@@ -37,6 +37,16 @@
 * Database view
 * CSV upload functionality
 
+
+### 💬 Chat Interface
+![Chat UI](assets/ui.png)
+
+### 📂 Query Results &  Sidebar & CSV Upload
+![Results](assets/ui2.png)
+
+### 📊 Visualization
+![Sidebar](assets/ui3.png)
+
 ---
 
 ## 🎯 Features
@@ -254,17 +264,6 @@ The app automatically generates:
 * 📈 Trend graphs
 * 📉 Data comparisons
 
----
-## 🖥️ UI Preview
-
-### 💬 Chat Interface
-![Chat UI](assets/ui.png)
-
-### 📂 Query Results &  Sidebar & CSV Upload
-![Results](assets/ui2.png)
-
-### 📊 Visualization
-![Sidebar](assets/ui3.png)
 ---
 ## 🤝 Contributing
 
