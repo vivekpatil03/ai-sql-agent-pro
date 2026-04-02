@@ -99,9 +99,16 @@ ai-sql-agent/
 │
 ├── uploads/
 │
-└── utils/
-    ├── charts.py
-    └── ui_theme.py
+├── utils/
+│   ├── charts.py
+│   └── ui_theme.py
+│
+├── assets/                     # 🔥 UI images for README
+│   ├── ui.png
+│   ├── ui2.png
+│   └── ui3.png
+│
+└── README.md
 
 ```
 
