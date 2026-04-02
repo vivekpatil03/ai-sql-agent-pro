@@ -67,7 +67,9 @@ Results + Charts + Explanation
 ```
 
 ---
-📂 Project Structure
+##📂 Project Structure
+
+```
 ai-sql-agent/
 │
 ├── .env.example
