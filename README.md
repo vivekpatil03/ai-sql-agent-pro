@@ -260,10 +260,10 @@ The app automatically generates:
 ### 💬 Chat Interface
 ![Chat UI](assets/ui.png)
 
-### 📊 Query Results & Visualization
+### 📂 Query Results &  Sidebar & CSV Upload
 ![Results](assets/ui2.png)
 
-### 📂 Sidebar & CSV Upload
+### 📊 Visualization
 ![Sidebar](assets/ui3.png)
 ---
 ## 🤝 Contributing
