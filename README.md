@@ -255,7 +255,17 @@ The app automatically generates:
 * 📉 Data comparisons
 
 ---
+## 🖥️ UI Preview
 
+### 💬 Chat Interface
+![Chat UI](assets/ui.png)
+
+### 📊 Query Results & Visualization
+![Results](assets/ui2.png)
+
+### 📂 Sidebar & CSV Upload
+![Sidebar](assets/ui3.png)
+---
 ## 🤝 Contributing
 
 ```bash id="git2"
